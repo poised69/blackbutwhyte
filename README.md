@@ -13,8 +13,11 @@ requests. The folder you see is exactly what gets served.
 Pinterest's developer app asks for a privacy policy URL. Once the site is deployed, that is:
 
 ```
-https://blackbutwhyte.netlify.app/#privacy
+https://poised69.github.io/blackbutwhyte/#privacy
 ```
+
+That is the live GitHub Pages URL. If the site is moved to Netlify (see below), update
+this and the URLs in `index.html`, `robots.txt` and `sitemap.xml` to the new address.
 
 The policy is a section of the single page, so the `#privacy` anchor lands directly on it.
 

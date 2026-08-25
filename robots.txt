@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://blackbutwhyte.netlify.app/sitemap.xml
+Sitemap: https://poised69.github.io/blackbutwhyte/sitemap.xml
